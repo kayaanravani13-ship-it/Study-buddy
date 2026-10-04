@@ -1,0 +1,1 @@
+# Study Buddy roadmap\n\nNext: chapters and syllabus, timetable/exam dates, flashcards, progress analytics, export notes, and optional on-device AI tutor. Keep student data local by default.\n
